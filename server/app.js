@@ -4,8 +4,8 @@ var cors = require('cors')
 var jwt = require('express-jwt')
 
 var jwtCheck = jwt({
-  secret: 'YOUR_CLIENT_SECRET',
-  audience: 'YOUR_CLIENT_ID'
+  secret: 'RYciRk6PvAtlrIGHzryGhdZ87XEFa7obFJm5bK2N0I9h9paCMifObNjHFq_cqyjB',
+  audience: 'VG-HOgBHOnmXnkcXzgW0K3axOqGY5R4b'
 })
 
 app.use(cors())
