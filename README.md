@@ -1,5 +1,7 @@
 # vuesetup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/vue2-auth0-setup.svg)](https://greenkeeper.io/)
+
 This repo accompanies the following blog post:  
 [Vue.js - Setting up Auth0](https://medium.com/@bradfmd/vue-js-setting-up-auth0-6eb26cbbc48a)
 
