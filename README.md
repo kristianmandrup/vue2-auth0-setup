@@ -45,7 +45,7 @@ To connect your Auth0 client to Google, you will need to generate a Client ID an
 
 #### Generate the Google Client ID and Client Secret
 
-While logged in to your Google account, go to the API Manager.
+While logged in to your Google account, go to the [API Manager](https://console.developers.google.com/projectselector/apis/credentials)
 
 Create your new app by navigating to Credentials using the left-hand menu:
 
@@ -74,7 +74,14 @@ Under Restrictions, enter the following information:
 
 Click Create. Your Client Id and Client Secret will be displayed:
 
-Save your Client Id and Client Secret to enter into the Connection settings in Auth0.
+Save your Client Id and Client Secret to enter into the [Connection settings in Auth0](https://manage.auth0.com/#/connections/social)
+
+ie. click on `Google` social connection settings.
+
+- `112107055068-m6llle2duh09jgoechtjcdgotnerntp9.apps.googleusercontent.com`
+- `Frg8EJN2r6u8mXTILZyl9YpM`
+
+Click `Try`. If it works, go back and click `Save`
 
 ### Enable the Connection in Auth0
 
